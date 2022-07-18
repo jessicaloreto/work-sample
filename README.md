@@ -1,4 +1,4 @@
- # Front-End Work Sample
+# Front-End Work Sample
 
 Mini-projects and exercises that only require a front end.
 
