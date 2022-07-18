@@ -1,5 +1,5 @@
- # Front-End Sandbox
+ # Front-End Work Sample
 
-This is where I place all my mini-projects and exercises that only require a front end.
+Mini-projects and exercises that only require a front end.
 
 - [Login Template](https://jessicaloreto.github.io/work-sample/login-template) - Login page example.
